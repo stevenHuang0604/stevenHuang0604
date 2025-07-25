@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my page!<br>I'm Steven Huang, a front end developer.</p>
+<p align="left">Welcome to my page!<br>I'm Steven Huang, a frontend engineer.</p>
 
 ###
 
